@@ -1,0 +1,14 @@
+.user_login p{
+    font-size: 2.5rem;
+    text-align: center;
+}
+label {
+font-size: 1.4rem;
+}
+.container{
+    align-content: center;
+}
+.button_log{
+    position: relative;
+    left: 40%;
+}
